@@ -18,3 +18,15 @@
     border-radius: 20px;
     margin: 10px 0 10px 0;
 }
+.linea{
+    height: 2px;
+    background-color: white;
+    width: 20%;
+    padding: 0 10px 0 10px;
+}
+.linea-black{
+    height: 2px;
+    background-color: black;
+    width: 20%;
+    padding: 0 10px 0 10px;
+}
