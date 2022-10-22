@@ -4,3 +4,12 @@
     align-items: center;
     justify-content: end;
 }
+
+.bg-light-green{
+    background-color: rgb(26, 188, 156);
+}
+
+
+.max-250{
+    max-width: 250px;
+}
