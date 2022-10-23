@@ -13,20 +13,18 @@
 .max-250{
     max-width: 250px;
 }
-.max-img-section2{
-    max-width: 100%;
-    border-radius: 20px;
-    margin: 10px 0 10px 0;
-}
+
 .linea{
     height: 2px;
     background-color: white;
     width: 20%;
     padding: 0 10px 0 10px;
+    max-width: 300px;
 }
 .linea-black{
     height: 2px;
     background-color: black;
     width: 20%;
     padding: 0 10px 0 10px;
+    max-width: 300px;
 }
